@@ -2,9 +2,9 @@
 
 ## 📖 About Me
 
-*I'm a programmer and future Computer Sciene student.*
+*I'm a programmer and an aspiring CS student.*
 
-*I mainly work in **C++** and **Python**, and I'm actively involved in **Competitive Programming**, where I've learned about **data structures, graph theory, algorithms and problem-solving techniques**.*
+*I mainly work with **C++** and **Python**, and I'm actively involved in **Competitive Programming**, where I've learned about **data structures, graph theory, algorithms and problem-solving techniques**.*
 
 *I'm constantly learning, building projects, and improving my programming skills.*
 
