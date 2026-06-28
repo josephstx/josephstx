@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align = "center">Hi, I'm Joseph👾💻</h1>
 
-<!--
-**josephstx/josephstx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📖 About Me
 
-Here are some ideas to get you started:
+*I'm a programmer and future Computer Sciene student.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I mainly work in **C++** and **Python**, and I'm actively involved in **Competitive Programming**, where I've learned about **data structures, graph theory, algorithms and problem-solving techniques**.*
+
+*I'm constantly learning, building projects, and improving my programming skills.*
+
+---
+
+## 🔭 Skills
+
+<p>
+    <img src = "https://skillicons.dev/icons?i=cpp,python,arch,linux">
+</p>
+
+---
+
+### 📈 Contributions
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephstx&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=josephstx)
